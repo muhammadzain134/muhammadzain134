@@ -26,7 +26,7 @@ Designed datapath & control logic with instruction-level verification.
 
 ### 🔹 Pipelined RISC-V Processor
 A 5-stage pipelined CPU implementing hazard detection, forwarding, and stalling. Fully simulated and tested.
-- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/muhammadzain134/pipelined-riscv/tree/main)
 
 ### 🔹 RISC-V Core Physical Design
 Implemented a complete RTL-to-GDSII flow including floorplanning, placement, CTS, and routing.
