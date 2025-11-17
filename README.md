@@ -22,19 +22,19 @@ Currently, I'm a **Trainee Digital Design & Verification Engineer at NUST Chip D
 
 ### 🔹 Single-Cycle RISC-V Processor
 Designed datapath & control logic with instruction-level verification.
-**Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
 
 ### 🔹 Pipelined RISC-V Processor
 A 5-stage pipelined CPU implementing hazard detection, forwarding, and stalling. Fully simulated and tested.
-**Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
 
 ### 🔹 RISC-V Core Physical Design
 Implemented a complete RTL-to-GDSII flow including floorplanning, placement, CTS, and routing.
-**Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
 
 ### 🔹 UART Transmitter/Receiver
 Designed a UART Tx/Rx running at 9600 baud. Verified using simulations.
-**Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
 
 ---
 
