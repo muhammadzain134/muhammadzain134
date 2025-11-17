@@ -22,7 +22,7 @@ Currently, I'm a **Trainee Digital Design & Verification Engineer at NUST Chip D
 
 ### 🔹 Single-Cycle RISC-V Processor
 Designed datapath & control logic with instruction-level verification.
-- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/muhammadzain134/single-cycle-riscv)  
 
 ### 🔹 Pipelined RISC-V Processor
 A 5-stage pipelined CPU implementing hazard detection, forwarding, and stalling. Fully simulated and tested.
