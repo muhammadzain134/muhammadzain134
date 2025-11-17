@@ -30,7 +30,7 @@ A 5-stage pipelined CPU implementing hazard detection, forwarding, and stalling.
 
 ### 🔹 RISC-V Core Physical Design
 Implemented a complete RTL-to-GDSII flow including floorplanning, placement, CTS, and routing.
-- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/muhammadzain134/single-cycle-processor-physical-design)
 
 ### 🔹 UART Transmitter/Receiver
 Designed a UART Tx/Rx running at 9600 baud. Verified using simulations.
