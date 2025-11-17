@@ -34,7 +34,7 @@ Implemented a complete RTL-to-GDSII flow including floorplanning, placement, CTS
 
 ### 🔹 UART Transmitter/Receiver
 Designed a UART Tx/Rx running at 9600 baud. Verified using simulations.
-- **Repository:** [View on GitHub](https://github.com/yourusername/pipelined-riscv)  
+- **Repository:** [View on GitHub](https://github.com/muhammadzain134/uart/tree/main)  
 
 ---
 
